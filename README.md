@@ -54,3 +54,11 @@ I'm exploring new concepts and refining my approach to software design and devel
 ---
 
 ## 🗂️ Featured Projects
+
+---
+
+## 🚀 Learning Goals
+
+---
+
+## 📫 Connect with Me
