@@ -55,10 +55,36 @@ I'm exploring new concepts and refining my approach to software design and devel
 
 ## 🗂️ Featured Projects
 
+- **[CS305 Secure Software Practices](https://github.com/AlexLeetDev/CS305_Project_SecureSoftwarePractices)**: A project aimed at implementing secure communication mechanisms and performing vulnerability assessments for a financial application. Key highlights:
+  - **Objectives**: Strengthened security for data transfers by adding file verification through checksums and utilizing secure protocols.
+  - **Technologies**: Java, SSL/TLS for secure communication, and dependency check tools for vulnerability assessment.
+  - **Challenges and Solutions**: Focused on identifying and suppressing false positives in dependency checks, implementing a keystore, and managing secure algorithms to prevent vulnerabilities.
+
+- **[CS230 Draw It or Lose It - Software Design Document](https://github.com/AlexLeetDev/CS230_DrawIt_GameApp)**: A comprehensive software design document for expanding a team-based puzzle game from Android to a web-based, multi-platform application. Key highlights:
+  - **Objectives**: Outlined a scalable solution for a cross-platform web application with real-time interaction and a consistent user experience.
+  - **Design Focus**: Detailed requirements, architecture, platform compatiblity, and security considerations to ensure smooth, secure gameplay across platforms.
+  - **Recommendations**: Suggested Linux for main operating platform, multi-tier architecture, and secure communication methods like HTTPS to support real-time, synchronized gameplay.
+
 ---
 
 ## 🚀 Learning Goals
 
+- Deepen my knowledge in **Linux** and **command-line operations** for future cross-platform development.
+- Strengthen my skills in **Java** and **MySQL** to support backend development in upcoming projects.
+- Continue to build secure coding skills, applying what I learn in **secure software development** practices to real-world scenarios.
+
 ---
 
 ## 📫 Connect with Me
+
+---
+
+## 🏆 GitHub Activity
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AlexLeetDev&theme=onedark&column=4&no-bg=true&no-frame=true)
+
+### 📈 GitHub Stats
+
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexLeetDev&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLeetDev&layout=compact&theme=radical)
