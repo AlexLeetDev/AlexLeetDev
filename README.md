@@ -1,90 +1,67 @@
-# 👋 Hello, I’m Alex
+# 👋 Hi, I’m Alex Leet
 
 ![GitHub followers](https://img.shields.io/github/followers/AlexLeetDev?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/AlexLeetDev?label=Stars&style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=AlexLeetDev&color=blue)
 
-I'm a **Computer Science student** focused on building a strong foundation in software development, secure coding practices, and database management. Currently balancing studies and full-time work, I am dedicated to applying what I learn to both hypothetical and real-world projects, creating a portfolio that demonstrates practical, hands-on experience.
+I’m a **Computer Science student and software developer** passionate about creating clean, efficient, and user-focused software.  
+My work spans **web development, database design, and machine learning**, with an emphasis on building practical, real-world applications that demonstrate both technical and design skills.
 
 ---
 
-## 📘 About Me
+## 🔭 What I’m Working On
 
-I'm exploring new concepts and refining my approach to software design and development, one project at a time. My portfolio inculdes a mix of academic projects and self-driven work, especially focused on:
-
-- **Learning Agile and Scrum Methodologies** 🏃‍♂️
-- **Developing Cross-Platform Skills** 🌐
-- **Gaining Experience in Software Security** 🔒
+- 🗃️ **Inventory Management System** — Django + MySQL web app featuring CRUD operations, low-stock alerts, and an admin dashboard.  
+- 🧠 **Traffic Sign Recognition (CNN)** — Deep learning classifier trained on 43 traffic-sign categories using TensorFlow and OpenCV.  
+- 🌍 **Full-Stack Travel App** — Angular SPA with Express backend and MongoDB integration for dynamic trip management.  
 
 ---
 
-## 🛠️ Technical Skills
+## 🧰 Tech Stack
 
-### Programming Languages
-
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=brightgreen) Learning Python for data tasks and automation, exploring its versatility in backend and scripting.
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&color=%23E76F51) Building a foundation in Java, focusing on object-oriented programming for reliable application development.
-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=%2300599C) Gaining experience in C++ for efficient programming and exploring foundational programming concepts.
-
-### Development Tools and IDEs
-
-- ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&color=%23A77BDE) Using Eclipse as primary Java IDE, exploring its debugging and organizational features.
-- ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white&color=%2304A777) Practicing Python projects in PyCharm, with support for virtual environments and testing.
-- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-800080?style=for-the-badge&logo=visual-studio&logoColor=white&color=%23800080) Experimenting with Visual Studio, primarily for C++ and Windows-based applications.
-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=%23007ACC) Using VS Code for a range of tasks, from Markdown editing to scripts, exploring its flexibility with plugins.
-
-### Version Control and Collaboration
-
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=%23DE4C36) Building foundational skills in version control, focusing on managing changes and tracking project history effectively.
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=%23252525) Learning the basics of version control and project hosting, using GitHub for sharing projects and collaborating with others.
-
-### Database Management
-
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1) Learning SQL basics with MySQL, practicing database creation and data handling for structured data projects.
-
-### Operating Systems
-
-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=%230078D6) Primary development environment.
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=%23FCC624) Exploring Linux basics, working with command-line operations and understanding server environments.
-
-### Methodologies
-
-- ![Agile](https://img.shields.io/badge/Agile-FF5733?style=for-the-badge&logo=agile&logoColor=black&color=%23FF5733) Developing familiarity with Agile practices, focusing on sprints, retrospectives, and team-based workflows.
+**Languages:** Python • Java • C++  
+**Frameworks:** Django • Express • Angular • Node.js  
+**Databases:** MySQL • MongoDB  
+**Tools:** Git • GitHub • VS Code • Visual Studio  
+**Other:** REST APIs • JSON • Agile/Scrum • Linux CLI
 
 ---
 
-## 🗂️ Featured Projects
+## 🚀 Featured Projects
 
-- **[CS305 Secure Software Practices](https://github.com/AlexLeetDev/CS305_Project_SecureSoftwarePractices)**: A project aimed at implementing secure communication mechanisms and performing vulnerability assessments for a financial application. Key highlights:
-  - **Objectives**: Strengthened security for data transfers by adding file verification through checksums and utilizing secure protocols.
-  - **Technologies**: Java, SSL/TLS for secure communication, and dependency check tools for vulnerability assessment.
-  - **Challenges and Solutions**: Focused on identifying and suppressing false positives in dependency checks, implementing a keystore, and managing secure algorithms to prevent vulnerabilities.
+- **[Inventory Management System](https://alexleet.com/inventory-system.html)**  
+  Web-based inventory tracker built with Django and MySQL. Includes data relationships, supplier management, and low-stock reports.
 
-- **[CS230 Draw It or Lose It - Software Design Document](https://github.com/AlexLeetDev/CS230_DrawIt_GameApp)**: A comprehensive software design document for expanding a team-based puzzle game from Android to a web-based, multi-platform application. Key highlights:
-  - **Objectives**: Outlined a scalable solution for a cross-platform web application with real-time interaction and a consistent user experience.
-  - **Design Focus**: Detailed requirements, architecture, platform compatiblity, and security considerations to ensure smooth, secure gameplay across platforms.
-  - **Recommendations**: Suggested Linux for main operating platform, multi-tier architecture, and secure communication methods like HTTPS to support real-time, synchronized gameplay.
+- **[Traffic Sign Recognition (CNN)](https://alexleet.com/traffic-sign-recognition.html)**  
+  Convolutional neural network that classifies German traffic signs with TensorFlow. Includes confusion matrix and training visualizations.
 
----
-
-## 🚀 Learning Goals
-
-- Deepen my knowledge in **Linux** and **command-line operations** for future cross-platform development.
-- Strengthen my skills in **Java** and **MySQL** to support backend development in upcoming projects.
-- Continue to build secure coding skills, applying what I learn in **secure software development** practices to real-world scenarios.
+- **[Full-Stack Travel App](https://alexleet.com/fullstack-app.html)**  
+  Single Page Application using Angular and Express for trip data management, RESTful endpoints, and dynamic form-based editing.
 
 ---
 
-## 📫 Connect with Me
+## 🎯 Learning & Growth
+
+- Expanding my skills in **secure software design** and **backend development**.  
+- Exploring **cloud technologies** and preparing for the **AWS Certified Developer – Associate** certification.  
+- Continuously improving my **UI/UX design sense** for seamless, user-friendly interfaces.
 
 ---
 
-## 🏆 GitHub Activity
+## 📊 GitHub Stats
+
+![Alex’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexLeetDev&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLeetDev&layout=compact&theme=radical)
+
+---
+
+## 🏆 GitHub Achievements
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AlexLeetDev&theme=onedark&column=4&no-bg=true&no-frame=true)
 
-### 📈 GitHub Stats
+---
 
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexLeetDev&show_icons=true&theme=radical)
+## 📫 Connect
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLeetDev&layout=compact&theme=radical)
+[![Portfolio](https://img.shields.io/badge/Portfolio-alexleet.com-orange?style=for-the-badge)](https://alexleet.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AlexLeet-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexleet)
