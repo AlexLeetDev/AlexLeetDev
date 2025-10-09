@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AlexLeetDev/AlexLeetDev/main/assets/GitHub_banner.png"
-       alt="Alex Leet GitHub Banner"
-       style="max-width:100%; height:auto; margin-bottom:1rem;">
-</p>
-
 # 👋 Hi, I’m Alex Leet
 
 ![GitHub followers](https://img.shields.io/github/followers/AlexLeetDev?label=Followers&style=social)
