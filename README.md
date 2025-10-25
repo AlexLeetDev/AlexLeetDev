@@ -58,6 +58,7 @@ My work spans **web development, database design, and machine learning**, with a
 ## 🏆 GitHub Achievements
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AlexLeetDev&theme=onedark&column=4&no-bg=true&no-frame=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlexLeetDev&theme=discord&no-frame=true&no-bg=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
